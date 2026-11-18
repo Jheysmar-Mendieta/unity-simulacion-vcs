@@ -2,12 +2,12 @@
 
 public class GameManager : MonoBehaviour
 {
-    public string versionSimulacion = "1.0.0";
-    public float gravedadNivel = -9.81f;
-    public int puntosObjetivo = 100;
+    public string versionSimulacion = "1.1.0-jugador";
+    public float gravedadNivel = -15.0f; // Ajuste de fisica del programador para salto rapido
+    public int puntosObjetivo = 150;
 
     void Start()
     {
-        Debug.Log("Iniciando Simulacion Unity - Unica Fuente de Verdad");
+        Debug.Log("Iniciando Simulacion Unity con Controlador de Jugador Activo");
     }
 }
