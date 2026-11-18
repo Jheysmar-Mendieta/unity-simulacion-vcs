@@ -1,0 +1,7 @@
+﻿%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_SceneGUID: 8f4a21c09e12b45a
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_TerrenoEscenario: "Escenario_Laboratorio_3D_Nivel1"
